@@ -1,12 +1,12 @@
 <h2 align="center">
   Portfolio Website<br/>
 </h2>
-<div align="center">
+<!-- <div align="center">
   <img alt="Demo" src="./Images/main1.png" />
 </div>
 <div align="center">
   <img alt="Demo" src="./Images/main2.png" />
-</div>
+</div> -->
 
 <br/>
 
