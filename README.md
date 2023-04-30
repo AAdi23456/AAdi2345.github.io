@@ -20,7 +20,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=AAdi23456&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://i.pinimg.com/originals/12/35/1a/12351a0f8e62cdcc1af888dcd33831e8.jpg" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AAdi23456&icon=0&color=1)](https://visitcount.itsvg.in)
