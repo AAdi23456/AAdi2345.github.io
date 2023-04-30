@@ -23,6 +23,6 @@
 <img src="https://i.pinimg.com/originals/12/35/1a/12351a0f8e62cdcc1af888dcd33831e8.jpg" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AAdi23456&icon=0&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
